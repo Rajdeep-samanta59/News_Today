@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Alagappan Muthu",
+      "title": "Match Preview - Super Giants vs Capitals, Indian Premier League 2022, 15th Match - ESPNcricinfo",
+      "description": "Two superstars of Indian cricket will be going at it on Thursday",
+      "url": "https://www.espncricinfo.com/series/indian-premier-league-2022-1298423/lucknow-super-giants-vs-delhi-capitals-15th-match-1304061/match-preview",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/337300/337304.6.jpg",
+      "publishedAt": "2022-04-06T13:57:00Z",
+      "content": "PreviewRahul vs Pant could be decided by the talent around them\r\nTwo superstars of Indian cricket will be going at it on Thursday\r\nKL Rahul and Rishabh Pant. It probably won't be long before they are… [+3283 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "hindustantimes.com",
+      "title": "'He keeps delivering game after game': Smith RCB's 'unsung hero' in IPL 2022 - Hindustan Times",
+      "description": "IPL 2022: While Dinesh Karthik has been on a roll for RCB so far this season, former South Africa captain Graeme Smith has singled out someone else as the 'unsung hero' of the franchise and heaped heavy praise on the cricketer. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/graeme-smith-calls-harshal-patel-as-rcb-s-unsung-hero-in-ipl-2022-no-one-talks-about-him-but-he-keeps-delivering-game-after-game-101649235482131.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/04/06/1600x900/harshal-rcb-ipl-2022_1649236350875_1649236355356.jpg",
+      "publishedAt": "2022-04-06T09:15:38Z",
+      "content": "Gone are the days of Royal Challengers Bangalore finishing as the bottom two teams. In the previous two IPL seasons, RCB have entered the Playoffs and this season, their start has been positive. They… [+1655 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "Pakistan vs Australia, Only T20I, Australia tour of Pakistan, 2022 - Cricbuzz",
+      "description": "Follow Pakistan vs Australia, Only T20I, Apr 05, Australia tour of Pakistan, 2022 with live Cricket score, ball by ball commentary updates on Cricbuzz",
+      "url": "https://www.cricbuzz.com/cricket-commentary/40373/pak-vs-aus-only-t20i-australia-tour-of-pakistan-2022",
+      "urlToImage": null,
+      "publishedAt": "2022-04-05T18:58:27Z",
+      "content": "Australia - 3, Pakistan - 2: End of a quite long-ish yet successful tour for Australia. The Test series was completely dominated by the batters with tracks offering very little for the bowlers. With … [+711 chars]"
+    }
+  ]
+}
